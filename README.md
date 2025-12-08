@@ -7,3 +7,6 @@ Step forward github
 # end of the first commit.
 
 # creating feature branch
+# git switch -c feature
+# or
+# git checkout -b feature origin/feature

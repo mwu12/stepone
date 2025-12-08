@@ -1,4 +1,4 @@
-# stepone steptwo
+# stepone steptwo stepthree
 Step forward github.
 
 # start the first commit.
@@ -6,9 +6,9 @@ Step forward github.
 # git config --global user.email "yhwu999@gmail.com"
 # end of the first commit.
 
-# exercise
+# exercise at the first git push command
 # good: git push -u origin feature
-# fail: git push origin feature
+# fail: git push feature
 
 # creating feature branch
 # git switch -c feature

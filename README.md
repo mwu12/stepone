@@ -6,9 +6,11 @@ Step forward github.
 # git config --global user.email "yhwu999@gmail.com"
 # end of the first commit.
 
+# start the exercise.
 # exercise -u at the first time of using git push
 # good: git push -u origin feature
 # fetal: git push origin feature
+# end of exercise.
 
 # creating feature branch
 # git switch -c feature
